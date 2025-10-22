@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="README.assets/bg-cover.png" style="width: 220px; height: auto;"/>
+  <img src="README.assets/bg-cover.png" style="width: 100%; height: auto;"/>
 </div>
 
 <div align="center">
